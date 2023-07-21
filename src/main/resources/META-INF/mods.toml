@@ -1,0 +1,8 @@
+[mods]
+portalstructures = { version = "1.0", mcversion = "1.20.1" }
+
+[modMetaData]
+modId = "portalstructures"
+version = "1.0"
+authorList = ["Agent A"]
+description = "Custom Portal Structures Mod"
